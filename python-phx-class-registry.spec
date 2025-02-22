@@ -8,6 +8,7 @@ License:	MIT
 Group:		Development/Python
 BuildRequires:	python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(poetry-core)
 BuildArch:	noarch
 
 %description
