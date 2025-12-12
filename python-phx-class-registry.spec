@@ -1,6 +1,6 @@
 Name:		python-phx-class-registry
 Version:	5.1.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/phx-class-registry/phx_class_registry-%{version}.tar.gz
 Summary:	Factory+Registry pattern for Python classes
 URL:		https://pypi.org/project/phx-class-registry/
