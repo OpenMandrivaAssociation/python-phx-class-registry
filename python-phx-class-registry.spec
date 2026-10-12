@@ -3,7 +3,7 @@
 
 Name:		python-phx-class-registry
 Version:	5.2.2
-Release:	1
+Release:	2
 Summary:	Factory+Registry pattern for Python classes
 License:	MIT
 Group:		Development/Python
